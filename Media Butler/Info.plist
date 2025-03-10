@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Media Butler needs permission to control your music players (Spotify and Apple Music)</string>
+    <key>NSAppleScriptEnabled</key>
+    <true/>
+    <key>NSAppleMusicUsageDescription</key>
+    <string>Media Butler needs permission to control Apple Music playback</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSAccessibilityUsageDescription</key>
+    <string>Media Butler needs accessibility access to control media playback using your media keys</string>
+    <key>LSBackgroundOnly</key>
+    <false/>
+</dict>
+</plist>
